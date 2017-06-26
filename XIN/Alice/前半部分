@@ -1,8 +1,10 @@
 ## 定位样本文件
+
 从群文件里下载最新的样本文件。
 下载链接：https://www.iphonecake.com/app_1025252985_.html
 
 ## 使用openssl生成SHA256摘要可见，与原作者SHA256相同。
+
 $ openssl dgst -sha256 com.mailtime.MailTimePro-clutch2.ipa
 SHA256(com.mailtime.MailTimePro-clutch2.ipa)= 332cf0a45170d6787dcbefb086f5a5f0f6e920d485e377fe37e900a01c128c8e
 
