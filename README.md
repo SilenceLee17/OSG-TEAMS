@@ -1,3 +1,5 @@
+http://www.freebuf.com/articles/system/108732.html
+
 # RANKINGS
 
 |BLACK|POINT|WHITE|POINT|KANXUE|POINT|
