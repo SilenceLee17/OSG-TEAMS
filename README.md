@@ -1,5 +1,6 @@
 http://www.freebuf.com/articles/system/108732.html
 
+http://applech2.com/archives/20160708-malwarebytes-for-mac-detect-eleanor-and-keydnap.html
 # RANKINGS
 
 |BLACK|POINT|WHITE|POINT|KANXUE|POINT|
